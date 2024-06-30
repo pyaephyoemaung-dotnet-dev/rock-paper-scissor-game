@@ -1,0 +1,15 @@
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\bin\Debug\net7.0\Rock-paper-scissor-game.exe
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\bin\Debug\net7.0\Rock-paper-scissor-game.deps.json
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\bin\Debug\net7.0\Rock-paper-scissor-game.runtimeconfig.json
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\bin\Debug\net7.0\Rock-paper-scissor-game.dll
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\bin\Debug\net7.0\Rock-paper-scissor-game.pdb
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\obj\Debug\net7.0\Rock-paper-scissor-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\obj\Debug\net7.0\Rock-paper-scissor-game.AssemblyInfoInputs.cache
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\obj\Debug\net7.0\Rock-paper-scissor-game.AssemblyInfo.cs
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\obj\Debug\net7.0\Rock-paper-scissor-game.csproj.CoreCompileInputs.cache
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\obj\Debug\net7.0\Rock-paper-scissor-game.sourcelink.json
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\obj\Debug\net7.0\Rock-paper-scissor-game.dll
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\obj\Debug\net7.0\refint\Rock-paper-scissor-game.dll
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\obj\Debug\net7.0\Rock-paper-scissor-game.pdb
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\obj\Debug\net7.0\Rock-paper-scissor-game.genruntimeconfig.cache
+C:\Users\sapel\Desktop\Rock-paper game\Rock-paper-scissor-game\Rock-paper-scissor-game\obj\Debug\net7.0\ref\Rock-paper-scissor-game.dll
